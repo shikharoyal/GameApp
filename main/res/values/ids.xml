@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button" type="id">button</item>
+    <item name="linearLayout" type="id">linear</item>
+    <item name="button2" type="id">1</item>
+    <item name="textView2" type="id">2</item>
+    <item name="x" type="id">x</item>
+    <item name="o" type="id">o</item>
+    <item name="local" type="id">local</item>
+    <item name="computer" type="id">computer</item>
+</resources>
